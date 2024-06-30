@@ -1,4 +1,4 @@
-## Repository: UR_RTDE_2
+## Repository: ULTRAMAN
 This repository contains a robust Python implementation of RTDE-integration with UR10 and serial-comms with Arduino, developed as a part of the 2023-24 UltraMan DMT project at Imperial College.
 
 #### --- What are the files in this repository? ---
